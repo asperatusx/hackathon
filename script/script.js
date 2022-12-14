@@ -13,5 +13,3 @@ const getData = (result) => {
   const city = result.data[i].city;
   const state = result.data[i].state;
 };
-
-f;
